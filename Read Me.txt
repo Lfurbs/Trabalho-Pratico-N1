@@ -1,0 +1,8 @@
+Este programa em C permite gerenciar uma lista de artistas, seus gêneros musicais, locais de origem e álbuns associados. Ele oferece as seguintes funcionalidades:
+
+Inserção de Novos Artistas: Permite adicionar novos artistas à lista, incluindo informações como nome, gênero musical, local de criação/nascimento e álbuns associados.
+Remoção de Artistas: Permite remover artistas da lista com base em seus nomes.
+Edição de Artistas: Permite editar as informações de artistas existentes, incluindo seu gênero musical, local de criação/nascimento e álbuns associados.
+Busca Binária por Artista: Permite pesquisar um artista específico na lista utilizando o método de busca binária.
+Busca Sequencial por Álbum: Permite encontrar todos os artistas na lista que possuem um determinado álbum.
+Listagem de Todos os Artistas: Exibe uma lista completa de todos os artistas cadastrados, incluindo seus gêneros musicais, locais de origem e álbuns.
