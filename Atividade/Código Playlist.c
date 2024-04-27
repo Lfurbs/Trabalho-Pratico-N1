@@ -70,7 +70,7 @@ void escrever_artistas_arquivo(struct Artista artistas[], int num_artistas, cons
 
 void inserir_artista(struct Artista artistas[], int *num_artistas) {
     if (*num_artistas >= MAX_ARTISTAS) {
-        printf("Número máximo de artistas atingido.\n");
+        printf("Numero maximo de artistas atingido.\n");
         return;
     }
 
